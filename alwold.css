@@ -1,0 +1,36 @@
+body {
+  margin: 0px;
+  font-family: sans-serif;
+  background: #ecd5a2;
+}
+
+img {
+  border: solid 1px black;
+  float: left;
+  margin-right: 30px;
+}
+
+.top {
+  background: #c5b287;
+  box-shadow: 0px 10px 10px #888;;
+  padding: 30px;
+}
+
+.bottom {
+}
+
+.clear {
+  clear: both;
+}
+
+.links {
+  background: darkgray;
+  color: white;
+  padding: 10px;
+}
+
+.links a {
+  color: white;
+  padding: 0px 10px;
+  text-decoration: none;
+}

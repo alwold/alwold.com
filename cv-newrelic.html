@@ -149,7 +149,7 @@
     <p>
       Developed payroll application to allow small businesses to pay employees, deduct taxes from paychecks, e-File quarterly withholding returns with federal/state revenue departments.
       The application front-end was developed in Ruby on Rails, with a Java backend for processing e-File tax transactions with state/federal governments. Developed
-      a full test suite of unit and functional tests in RSpec to ensure application works per specifications, including testing JavaScript with a simulated browser via Capybara and Poltergeist.
+      a full test suite of unit and functional tests in RSpec to ensure application works per specifications, including testing JavaScript with a simulated browser via Capybara and PhantomJS.
     </p>
    </div>
    <div class="subsection">
@@ -161,6 +161,15 @@
       class availability and notifies users via text message or email if a spot opens up. The app and backend services were developed with Ruby on Rails and integrate
       with Twilio for text messaging and Stripe for credit card processing. Developed a set of web scrapers for each school ranging from simple HTTP GET transactions to more complex interactions with PhantomJS. Built a set of nightly tests to verify scraper function and alert developers when scrapers need to be updated.
     </p>
+   </div>
+   <div class="subsection">
+    <span class="subsectionTitle">ASU Webauth Load Testing</span>
+    <br/>
+    Arizona State University
+    <p/>
+    Load tested a new version of ASU's single sign on system with JMeter. Used analytics
+    data to determine peak loads, then developed a plan which simulated typical user interactions. Set up a farm of Amazon AWS EC2 instances as JMeter
+    slaves to distribute the client load. Gathered metrics on the app's performance.
    </div>
    <div class="subsection">
     <span class="subsectionTitle">ASU Directory</span>

@@ -1,0 +1,225 @@
+<html>
+ <head>
+  <title>Albert Wold: Resume</title>
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+ </head>
+ <style>
+  body {
+     font-family: 'Open Sans', sans-serif;
+     padding-left: 40px;
+     padding-right: 40px;
+  }
+  .title {
+     font-size: 1.25em;
+     font-weight: bold;
+     padding-bottom: 10px;
+  }
+  .name {
+     font-size: 1.5em;
+     font-weight: bold;
+  }
+  .sectionTitle {
+     font-weight: bold;
+     padding: 5px;
+     margin-bottom: 5px;
+     background: lightgray  ;
+  }
+  .subsectionTitle {
+    font-weight: bold;
+  }
+  .subsection {
+     padding-bottom: 10px;
+  }
+ </style>
+ <style media="print">
+  body {
+    font-size: 8pt;
+  }
+ </style>
+ <body>
+  <div class="title">
+   Resume
+  </div>
+  <div class="name">
+   Albert Wold
+  </div>
+  3236 E Chandler Blvd #2056<br/>
+  Phoenix, AZ 85048<br/>
+  <p/>
+  602.614.3736 |
+  alwold@alwold.com |
+   <a href="https://github.com/alwold">https://github.com/alwold</a> |
+  <a href="http://blog.alwold.com">http://blog.alwold.com</a>
+  <!--
+  <div id="summary">
+   <div class="sectionTitle">
+    Summary
+   </div>
+   <ul>
+    <li>Experienced developer with 15 years of professional experience</li>
+    <li>Committed to keeping up to date with advances in software development tools and techniques</li>
+    <li>Ability to quickly master new technologies in order to get the job done</li>
+    <li>Effective in applying technology to meet business requirements within resource constraints</li>
+   </ul>
+  </div>
+-->
+  <div id="skills">
+   <div class="sectionTitle">
+    Skills
+   </div>
+   <div class="subsection">
+   <div class="subsection">
+    <span class="subsectionTitle">
+     Technology Platforms
+    </span>
+    <ul>
+      <li>Java/J2EE (advanced)</li>
+      <li>Android (advanced)</li>
+      <li>iOS - Objective C, Swift (intermediate)</li>
+      <li>Ruby/Rails (intermediate)</li>
+      <li>C/C++ (intermediate)</li>
+      <li>Javascript (some experience)</li>
+    </ul>
+   </div>
+  </div>
+  <div id="experience">
+   <div class="sectionTitle">
+    Work Experience
+   </div>
+   <div class="subsection">
+    9/2011 - Current<br/>
+    Software Developer/Owner<br/>
+    Wold Technologies, Inc.
+    <p/>
+    <ul>
+     <li>Provide contract software development services in Java, Ruby on Rails, iOS, Android, etc.</li>
+     <li>Assist clients in software lifecycle, including project planning, requirements gathering, testing and production deployment</li>
+    </ul>
+   </div>
+   <div class="subsection">
+    6/2007 - 9/2011<br/>
+    Lead Web Application Developer<br/>
+    Arizona State University, University Technology Office<br/>
+    <p/>
+    <ul>
+     <li>Developed and supported high volume applications to support ASU students, faculty and staff, with a focus on Java-based applications running on Tomcat</li>
+     <li>Founded the ASU Open Source community site to provide a central resource for ASU-sourced projects</li>
+     <li>Served on the Architectural Review Board to review and provide guidance on security, performance and general architecture of University applications</li>
+    </ul>
+   </div>
+   <div class="subsection">
+    2/2005 - 5/2007<br/>
+    Software Engineer III<br/>
+    Trimble Navigation Limited<br/>
+    <p/>
+    <ul>
+     <li>Developed a new GPS-based fitness and driving applications for mobile devices running Java ME, Qualcomm BREW and Blackberry</li>
+     <li>Managed the process of porting and maintaining the mobile application on over 50 devices for several major wireless carriers</li>
+     <li>Maintained a Windows desktop application using C# and Windows Forms, and an ASP.NET-based web site and web services to integrate with the mobile devices</li>
+    </ul>
+   </div>
+   <div class="subsection">
+    9/2000 - 2/2005<br/>
+    Technology Support Analyst Senior<br/>
+    Arizona State University, Information Technology<br/>
+    <p/>
+    <ul>
+     <li>Provided support and managed central web and email systems, including Microsoft Exchange, Cyrus IMAP, PMDF, Apache, Tomcat, etc.</li>
+     <li>Developed the first web-based email system for ASU students using Java and PHP</li>
+     <li>Provided guidance on design of the ASU single sign on environment</li>
+   </div>
+  </div>
+  <div id="projects">
+   <div class="sectionTitle">
+    Projects
+   </div>
+   <div class="subsection">
+    <span class="subsectionTitle">FamilySearch Memories App</span>
+    <p>
+      Implemented a new Android application to allow FamilySearch.org members to upload, view and manage photos, audio clips and stories
+      about their ancestors. The app mirrors functionality in an existing iOS application. Functionality
+      includes authentication, upload and download functionality with a REST API, integration with camera, audio recording/playback
+      and support for several different languages. Led development and provided mentoring to a team including another Junior Developer and QA Developer.
+    </p>
+   </div>
+   <div class="subsection">
+    <span class="subsectionTitle">wagely.com</span>
+    <br/>
+    Independent Project
+    <p>
+      Developed payroll application to allow small businesses to pay employees, deduct taxes from paychecks, e-File quarterly withholding returns with federal/state revenue departments.
+      The application front-end was developed in Ruby on Rails, with a Java backend for processing e-File tax transactions with state/federal governments. Developed
+      a full test suite of unit and functional tests in RSpec to ensure application works per specifications, including testing JavaScript with a simulated browser via Capybara and Poltergeist.
+    </p>
+   </div>
+   <div class="subsection">
+    <span class="subsectionTitle">GetMyClass.com</span>
+    <br/>
+    Independent Project
+    <p>
+      Developed a service to monitor college class availability for students wishing to enroll in a class that is currently full. The service periodically monitors
+      class availability and notifies users via text message or email if a spot opens up. The app and backend services were developed with Ruby on Rails and integrate
+      with Twilio for text messaging and Stripe for credit card processing. Developed a set of web scrapers for each school ranging from simple HTTP GET transactions to more complex interactions with PhantomJS. Built a set of nightly tests to verify scraper function and alert developers when scrapers need to be updated.
+    </p>
+   </div>
+   <div class="subsection">
+    <span class="subsectionTitle">ASU Directory</span>
+    <br/>
+    Arizona State University
+    <p/>
+    Redesigned backend systems to bring together student/faculty/staff data from various enterprise systems, including Peoplesoft and legacy data sources.
+    Created a fast, high performance synchronization process to provide hourly updates to data, replacing the previous system which ran once a day. Added an Apache Solr Cloud
+    environment with an index of data for easier searching from user-facing applications. 
+   </div>
+  </div>
+  <div id="education"> 
+   <div class="sectionTitle">
+    Education
+   </div>
+   <p/>
+   <div class="subsection">
+    BS, Computer Science, Arizona State University, May 2003
+   </div>
+   <p/>
+  </div>
+  <!--
+  <div id="speaking">
+   <div class="sectionTitle">Presentations</div>
+   <div class="subsection">
+    <span class="subsectionTitle">RubyAZ - November 2014</span>
+    <br/>
+    Loading Code in Ruby
+   </div>
+   <div class="subsection">
+    <span class="subsectionTitle">CocoaHeads/Phoenix iOS Development Group - October 2014</span>
+    <br/>
+    Building an app in Swift
+   </div>
+   <div class="subsection">
+    <span class="subsectionTitle">ASU/UA/NAU Java Day - April 2010</span>
+    <br/>
+    Integration between Java applications and PeopleSoft
+   </div>
+   <div class="subsection">
+    <span class="subsectionTitle">ASU Web Integration Team - Brown Bag - July 2008</span>
+    <br/>
+    Introduction to Maven 2
+   </div>
+   <div class="subsection">
+    <span class="subsectionTitle">Desert Code Camp - May 2006</span>
+    <br/>
+    Location Based Services in J2ME
+   </div>
+   <div class="subsection">
+    <span class="subsectionTitle">Phoenix Java Users Group - March 2006</span>
+    <br/>
+    Location Based Services in J2ME
+   </div>
+   <div class="subsection">
+    <span class="subsectionTitle">JA-SIG - Summer 2004</span>
+    <br/>
+    Best Practices for Channel Development (uPortal)
+   </div>
+ -->
+ </body>
+</html>

@@ -1,0 +1,28 @@
+<html>
+  <head>
+    <meta charset="UTF-8"> 
+    <meta name="viewport" content="initial-scale=1.0">
+    <script type="text/javascript">
+    function showPassword() {
+      var deviceIdField = document.getElementById('deviceId');
+      alert('device id is '+deviceIdField.value);
+    }
+
+    window.onload = function() {
+      document.ontouchstart = function() {
+        document.getElementById('deviceId').focus();
+      }
+      document.getElementById('deviceId').onchange = showPassword;
+     }
+    </script>
+  </head>
+  <body>
+    <h2>Scan Trucode</h2>
+    <form>
+        <!-- <input id="username" name="username"/> -->
+        <input id="deviceId" type="password" name="password"/>
+
+    </form>
+    <button onclick="showPassword();">Show device id</button>
+  </body>
+</html>

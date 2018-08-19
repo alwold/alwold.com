@@ -1,0 +1,48 @@
+{
+  "ingredients": 
+  [
+    {
+      "amount": 1,
+      "name": "medium butternut squash"
+    },
+    {
+      "amount": 1,
+      "name": "small sweet onion, peeled and diced"
+    },
+    {
+      "amount": 3,
+      "units": "cloves",
+      "name": "garlic"
+    },
+    {
+      "name": "olive oil"
+    },
+    {
+      "name": "salt"
+    },
+    {
+      "name": "pepper"
+    },
+    {
+      "amount": 0.5,
+      "units": "cup",
+      "name": "fresh sage leaves"
+    },
+    {
+      "amount": 1,
+      "units": "lb",
+      "name": "farfelle pasta"
+    },
+    {
+      "amount": 0.75,
+      "units": "cup",
+      "name": "toasted pine nuts"
+    },
+    {
+      "amount": 4,
+      "units": "oz",
+      "name": "high quality shredded Parmesan"
+    }
+  ],
+  "instructions": "<ol><li>Mince garlic</li><li>chop onion</li><li>Mince half of the sage</li><li>Peel squash and cut into 1 inch cubes</li><li>Toss with onion, garlic, sage, olive oil, salt and pepper.</li><li>Spread squash over baking sheet and roast for 40 minutes at 375.</li></ol>Source: http://www.thekitchn.com/recipe-pasta-with-butternut-sq-64966"
+}

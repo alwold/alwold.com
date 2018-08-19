@@ -1,0 +1,85 @@
+{
+  "ingredients": 
+  [
+    {
+      "amount": 1,
+      "units": "tbsp",
+      "name": "olive oil"
+    },
+    {
+      "amount": 1,
+      "name": "medium onion"
+    },
+    {
+      "amount": 2,
+      "name": "medium carrots"
+    },
+    {
+      "amount": 1,
+      "name": "celery stalk"
+    },
+    {
+      "name": "salt"
+    },
+    {
+      "amount": 4,
+      "name": "large garlic cloves"
+    },
+    {
+      "amount": 1,
+      "units": "14 oz can",
+      "name": "chopped tomatoes"
+    },
+    {
+      "amount": 1,
+      "name": "medium turnip"
+    },
+    {
+      "amount": 0.75,
+      "units": "lb",
+      "name": "zucchini, diced"
+    },
+    {
+      "amount": 1,
+      "name": "parmesan rind"
+    },
+    {
+      "amount": 1,
+      "name": "bay leaf"
+    },
+    {
+      "amount": 3,
+      "units": "sprigs",
+      "name": "parsley"
+    },
+    {
+      "amount": 3,
+      "unit": "sprigs",
+      "name": "thyme"
+    },
+    {
+      "amount": 1,
+      "units": "15 oz can",
+      "name": "cannellini beans"
+    },
+    {
+      "amount": 6,
+      "units": "oz",
+      "name": "green beans, cut into 1 inch lengths"
+    },
+    {
+      "amount": 0.5,
+      "units": "cup",
+      "name": "elbow macaroni"
+    },
+    {
+      "name": "pepper"
+    },
+    {
+      "amount": 0.25,
+      "units": "cup",
+      "name": "slivered fresh basil"
+    }
+  ],
+  "instructions": "<ol><li>Chop onion, carrots and celery</li><li>Heat olive oil and add onion, carrots, celery</li><li>Cook 3 minutes</li><li>Add 1/2 tsp salt</li><li>Cook about 5 minutes more</li><li>Add minced garlic</li><li>Stir for one minute</li><li>Add tomatoes, with juice</li><li>Cook 10 minutes</li><li>Dice turnips</li><li>Add 2 quarts of water</li><li>Add turnips, spices and parmesan rind</li><li>Bring to a simmer and add 2 tsp salt</li><li>Reduce heat, cover and simmer 45 minutes</li><li>Cut green beans and zucchini</li><li>Add pasta, green beans, cannellini beans and zucchini to soup</li><li>Cook 10 more minutes</li><li>Sliver the basil and stir it in</li><li>Add pepper and salt as needed</li><li>Serve with grated parmesan on top</li></ol>Source: http://www.nytimes.com/2008/08/12/health/nutrition/12recipehealth.html"
+}

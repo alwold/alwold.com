@@ -1,0 +1,29 @@
+{
+  "ingredients": 
+  [
+    {
+      "amount": 2,
+      "name": "avocados"
+    },
+    {
+      "amount": 0.125,
+      "name": "red onion"
+    },
+    {
+      "amount": 2,
+      "name": "jalapenos"
+    },
+    {
+      "amount": 2,
+      "units": "tsp"
+    },
+    {
+      "amount": 0.25,
+      "name": "lime"
+    },
+    {
+      "name": "salt"
+    }
+  ],
+  "instructions": "<p>Lightly mash the avocados and add them to a bowl. You want to leave it a bit chunky. Mince the onion so that the pieces are very small, so it is almost a pulp and mix it in. Do the same with the Jalapenos. Add the Cilantro and squeeze the juice from the lime slice. Mix everything together until it is the consistency you desire. This is based on a copy of the <a href=\"http://www.chipotlefan.com/index.php?id=guacamole_recipe\">Chipotle recipe</a>, and I think it tastes pretty similar to theirs.</p>"
+}

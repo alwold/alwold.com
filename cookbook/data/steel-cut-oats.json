@@ -1,0 +1,27 @@
+{
+  "ingredients": 
+  [
+    {
+      "amount": 0.5,
+      "units": "cup",
+      "name": "steel cut oats"
+    },
+    {
+      "amount": 1.5,
+      "units": "cups",
+      "name": "water"
+    },
+    {
+      "amount": 0.25,
+      "units": "cup",
+      "name": "milk"
+    },
+    {
+      "amount": 1,
+      "units": "tsp",
+      "name": "vanilla extract"
+    }
+  ],
+  "instructions": "<p>Bring water to a boil. Add oats, cover and reduce heat. Keep oats simmering, but keep a close eye on them, because they have a tendency to boil over. Once the oats start to become thick, add the milk and vanilla extract. Continue to cook until oats are the desired consistency. This takes about 30 minutes.</p><p>I recommend eating this with brown sugar, and you can add other things like fruits and nuts to make it more exciting.</p><p>Based on http://www.twopeasandtheirpod.com/steel-cut-oats-recipe/</p>",
+  "photo": "steel-cut-oats.jpg"
+}

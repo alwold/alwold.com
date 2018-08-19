@@ -1,0 +1,27 @@
+{
+  "ingredients": 
+  [
+    {
+      "name": "Romaine Lettuce"
+    },
+    {
+      "name": "Red onion"
+    },
+    {
+      "name": "Black olives"
+    },
+    {
+      "name": "Tomatoes"
+    },
+    {
+      "name": "Croutons"
+    },
+    {
+      "name": "Kidney beans"
+    },
+    {
+      "name": "Italian dressing"
+    }
+  ],
+  "instructions": "Toss. Add dressing."
+}

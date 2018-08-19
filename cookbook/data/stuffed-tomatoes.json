@@ -1,0 +1,63 @@
+{
+  "ingredients": 
+  [
+    {
+      "amount": 8,
+      "name": "large tomatoes (8oz)"
+    },
+    {
+      "name": "salt"
+    },
+    {
+      "name": "pepper"
+    },
+    {
+      "amount": 4.5,
+      "units": "tsp",
+      "name": "extra virgin olive oil"
+    },
+    {
+      "amount": 1,
+      "name": "fennel bulb (12oz), minced"
+    },
+    {
+      "amount": 2,
+      "name": "shallots, minced"
+    },
+    {
+      "amount": 1,
+      "name": "zucchini (8oz), cut into 1/4 inch pieces"
+    },
+    {
+      "amount": 4,
+      "name": "garlic cloves"
+    },
+    {
+      "amount": 0.667,
+      "units": "cup",
+      "name": "whole wheat couscous"
+    },
+    {
+      "amount": 0.75,
+      "units": "cup",
+      "name": "vegetable broth"
+    },
+    {
+      "amount": 1,
+      "units": "cup",
+      "name": "grated Parmesan cheese"
+    },
+    {
+      "amount": 0.5,
+      "units": "cup",
+      "name": "crumbled goat cheese"
+    },
+    {
+      "amount": 0.25,
+      "units": "cup",
+      "name": "chopped fresh basil"
+    }
+  ],
+  "instructions": "<ol><li>Slice 1/8 inch off the top of the tomatoes</li><li>Remove tomato core</li><li>Sprinkle inside of each tomato with 1/8 tsp salt</li><li>Dry tomatoes upside down for 30 minutes</li><li>Heat oven to 375 degrees</li><li>Heat 1 tsp oil in saucepan</li><li>Add chopped fennel and chopped shallots to oil and cook 10-12 minutes</li><li>Stir in chopped zucchini and cook 5 minutes</li><li>Stir in minced garlic and cook 30 seconds</li><li>Add couscous and cook 1-2 minutes</li><li>Stir in broth and simmer</li><li>Remove from heat, cover and let sit for 5 minutes</li><li>Fluff couscous with fork</li><li>Stir in 1/2 cup of Parmesan, goat cheese and basil</li><li>Season with salt and pepper</li><li>Pat inside of each tomato dry</li><li>Put tomatoes in 9x13 pan</li><li>Coat edges of tomatoes with olive oil</li><li>Pack each tomato with filling and sprinkle with Parmesan cheese</li><li>Cook about 15 minutes until cheese is lightly browned</li></ol>Source: America's Test Kitchen Healthy Family Cookbook",
+  "photo": "stuffed-tomatoes.jpg"
+}

@@ -1,0 +1,56 @@
+{
+  "ingredients": 
+  [
+    {
+      "amount": 0.5,
+      "units": "cup",
+      "name": "bread crumbs"
+    },
+    {
+      "amount": 0.5,
+      "units": "cup",
+      "name": "2 percent greek yogurt"
+    },
+    {
+      "amount": 4,
+      "name": "scallions"
+    },
+    {
+      "amount": 2,
+      "units": "tbsp",
+      "name": "minced cilantro"
+    },
+    {
+      "amount": 2,
+      "units": "15 oz cans",
+      "name": "chickpeas, rinsed"
+    },
+    {
+      "amount": 2,
+      "name": "large eggs"
+    },
+    {
+      "amount": 4,
+      "units": "tsp",
+      "name": "olive oil"
+    },
+    {
+      "amount": 1,
+      "units": "tsp",
+      "name": "garam masala"
+    },
+    {
+      "amount": 0.125,
+      "units": "tsp",
+      "name": "cayenne pepper"
+    },
+    {
+      "amount": 1,
+      "name": "shallot, minced"
+    },
+    {
+      "name": "lime wedges"
+    }
+  ],
+  "instructions": "<ol><li>Pulse chickpeas in food processor. There should be some large pieces remaining</li><li>Add eggs, 2 tsp olive oil, garam masala, cayenne pepper and 1/8 tsp salt to a bowl</li><li>Whisk contents of bowl</li><li>Add chickpeas, breadcrumbs, 1/2 cup yogurt, scallions, 2 tbsp cilantro and shallot to bowl and mix</li><li>Make 6 patties, about 1/2 cup each</li><li>Heat 2 tsp oil in pan and cook patties 8-10 minutes</li></ol>Source: America's Test Kitchen Healthy Family Cookbook"
+}

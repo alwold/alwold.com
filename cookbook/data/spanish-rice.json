@@ -1,0 +1,39 @@
+{
+  "ingredients": 
+  [
+    {
+      "amount": 2,
+      "units": "tbsp",
+      "name": "olive oil"
+    },
+    {
+      "amount": 1,
+      "units": "cup",
+      "name": "white rice"
+    },
+    {
+      "amount": 1,
+      "name": "onion, chopped"
+    },
+    {
+      "amount": 2,
+      "name": "jalapenos"
+    },
+    {
+      "amount": 2,
+      "units": "cups",
+      "name": "water"
+    },
+    {
+      "amount": 2,
+      "units": "tsp",
+      "name": "chili powder"
+    },
+    {
+      "amount": 1,
+      "units": "tsp",
+      "name": "salt"
+    }
+  ],
+  "instructions": "<p>Saute the rice, pepper and onion in olive oil. Once rice starts to turn brown, add 1.5 cups of water, chili powder and salt. Cover and simmer until water is absorbed and rice is done, around 20 minutes. If Rice is still crunchy, add more water and simmer.</p><p>Source: http://allrecipes.com/recipe/spanish-rice-ii/</p>"
+}

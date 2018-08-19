@@ -1,0 +1,84 @@
+{
+  "ingredients": [
+    {
+      "amount": 12,
+      "name": "tomatillos"
+    },
+    {
+      "amount": 2,
+      "name": "medium zucchini"
+    },
+    {
+      "amount": 1,
+      "name": "large onion"
+    },
+    {
+      "amount": 2,
+      "name": "jalepeno peppers"
+    },
+    {
+      "amount": 4,
+      "units": "cloves",
+      "name": "garlic"
+    },
+    {
+      "amount": 1,
+      "units": "bottle",
+      "name": "Mexican beer"
+    },
+    {
+      "amount": 1,
+      "units": "lb",
+      "name": "chicken breast"
+    },
+    {
+      "amount": 2,
+      "units": "tsp",
+      "name": "dried thyme"
+    },
+    {
+      "amount": 4,
+      "units": "cups",
+      "name": "chicken broth"
+    },
+    {
+      "amount": 1,
+      "units": "bunch",
+      "name": "scallions"
+    },
+    {
+      "amount": 1,
+      "name": "lime"
+    },
+    {
+      "amount": 1.5,
+      "units": "tbsp",
+      "name": "olive oil"
+    },
+    {
+      "amount": 1.5,
+      "units": "tbsp",
+      "name": "cumin"
+    },
+    {
+      "name": "salt"
+    },
+    {
+      "name": "pepper"
+    },
+    {
+      "name": "tortilla chips"
+    },
+    {
+      "amount": "a few",
+      "units": "tbsp",
+      "name": "cilantro"
+    },
+    {
+      "amount": 2,
+      "units": "cups",
+      "name": "cotija cheese"
+    }
+  ],
+  "instructions": "<ol><li>Remove tomatillo husks, rinse and chop roughly</li><li>Chop onion and zucchini</li><li>Chop jalapenos</li><li>Mince garlic</li><li>Warm olive oil over medium-high heat and add produce, cumin, some salt, and a little pepper</li><li>Slice chicken into 1/4 inch strips</li><li>Cook vegetables 7-8 minutes until onion is softened and tomatillo becomes saucy</li><li>Add beer and cook another 5 minutes</li><li>Add chicken broth and thyme, cover and bring to a boil</li><li>Remove cover and reduce heat</li><li>Add chicken</li><li>Cook over low boil 6 minutes</li><li>Serve with scallions, cilantro, lime, cheese and chips</li></ol>Source: http://www.recessionipes.com/2009/05/tomatillo-tortilla-soup.html"
+}

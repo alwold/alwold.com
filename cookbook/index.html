@@ -1,0 +1,28 @@
+<!doctype html>
+<html ng-app="cookbookApp">
+<head>
+  <title>Cookbook</title>
+  <script src="bower_components/angular/angular.js"></script>
+  <script src="bower_components/angular-sanitize/angular-sanitize.js"></script>
+  <script src="js/cookbook.js"></script>
+  <link rel="stylesheet" href="css/cookbook.css"/>
+</head>
+<body ng-controller="CookbookCtrl">
+  <h1>Cookbook</h1>
+  <div class="recipe-list">
+    <ul>
+      <li ng-repeat="recipe in recipes"><a href="#" ng-click="view(recipe.file, recipe.name)">{{recipe.name}}</a></li>
+    </ul>
+  </div>
+  <div class="recipe-view" ng-if="recipe">
+    <img ng-if="recipe.photo" ng-src="data/images/{{recipe.photo}}" class="recipe-photo"/>
+    <h2>{{name}}</h2>
+    <h3>Ingredients</h3>
+    <ul>
+      <li ng-repeat="ingredient in recipe.ingredients">{{formatAmount(ingredient.amount)}} {{ingredient.units}} {{ingredient.name}}</li>
+    </ul>
+    <h3>Instructions</h3>
+    <span ng-bind-html="recipe.instructions"></span>
+  </div>
+</body>
+</html>

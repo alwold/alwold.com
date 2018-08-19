@@ -1,0 +1,50 @@
+{
+  "ingredients": 
+  [
+    {
+      "amount": 2,
+      "name": "eggs"
+    },
+    {
+      "amount": 1,
+      "units": "cup",
+      "name": "yogurt"
+    },
+    {
+      "amount": 2,
+      "units": "cups",
+      "name": "flour"
+    },
+    {
+      "amount": 2,
+      "units": "tsp",
+      "name": "baking powder"
+    },
+    {
+      "amount": 1,
+      "units": "tsp",
+      "name": "baking soda"
+    },
+    {
+      "amount": 0.5,
+      "units": "tsp",
+      "name": "salt"
+    },
+    {
+      "amount": 0.25,
+      "units": "cup",
+      "name": "canola oil"
+    },
+    {
+      "amount": 2,
+      "units": "tbsp",
+      "name": "canola oil"
+    },
+    {
+      "amount": 1,
+      "units": "cup",
+      "name": "skim milk"
+    }
+  ],
+  "instructions": "<p>This is a variant of a recipe which originally used buttermilk. The yogurt is used as a healthier replacement.</p><ol><li>Preheat waffle iron</li><li>Combine ingredients and mix well</li></ol>"
+}

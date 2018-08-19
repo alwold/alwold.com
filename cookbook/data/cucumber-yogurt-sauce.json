@@ -1,0 +1,29 @@
+{
+  "ingredients": 
+  [
+    {
+      "amount": 1,
+      "name": "cucumber, peeled, halved lengthwise, seeded and shredded"
+    },
+    {
+      "amount": 0.75,
+      "units": "cup",
+      "name": "2 percent Greek yogurt"
+    },
+    {
+      "amount": 0.5,
+      "units": "tsp",
+      "name": "salt"
+    },
+    {
+      "amount": 2,
+      "name": "scallions"
+    },
+    {
+      "amount": 1,
+      "units": "tbsp",
+      "name": "minced cilantro"
+    }
+  ],
+  "instructions": "<ol><li>Peel and remove seeds from cucumber</li><li>Shred cucumer</li><li>Toss with salt</li><li>Let drain for 15-30 minutes</li><li>Add cucumber to 3/4 cup of yogurt, 2 tbsp scallions and 1 tbsp cilantro</li><li>Add salt and pepper to taste</li></ol>Source: America's Test Kitchen Healthy Family Cookbook"
+}

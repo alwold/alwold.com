@@ -1,0 +1,49 @@
+{
+  "ingredients": [
+    {
+      "amount": 0.5,
+      "units": "cup",
+      "name": "fine or medium-grain bulgur, rinsed and drained"
+    },
+    {
+      "amount": 0.333333333,
+      "units": "cup",
+      "name": "fresh lemon juice from 2 lemons"
+    },
+    {
+      "amount": 2,
+      "units": "cups",
+      "name": "minced fresh parsley (2 bunches)"
+    },
+    {
+      "amount": 2,
+      "name": "chopped medium tomatoes"
+    },
+    {
+      "amount": 4,
+      "name": "scallions"
+    },
+    {
+      "amount": 2,
+      "units": "tbsp",
+      "name": "minced fresh mint"
+    },
+    {
+      "amount": 0.25,
+      "units": "cup",
+      "name": "extra virgin olive oil"
+    },
+    {
+      "name": "Salt"
+    },
+    {
+      "name": "Pepper"
+    },
+    {
+      "amount": 0.125,
+      "units": "tsp",
+      "name": "cayenne pepper"
+    }
+  ],
+  "instructions": "<ol><li>Add bulgur to a bowl</li><li>Add 1/4 cup lemon juice to the bulgur and let sit for 20-40 minutes until bulgur is tender</li><li>Add parsley, tomatoes, scallions and mint</li><li>To another bowl, add remaining lemon juice, olive oil, 1/4 tsp salt and cayenne and whisk together</li><li>Add contents of bowl to the bowl with the bulgur and mix</li><li>Chill for 1-2 hours</li></ol>"
+}

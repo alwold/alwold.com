@@ -1,0 +1,53 @@
+{
+  "ingredients": [
+    {
+      "amount": 0.5,
+      "units": "cup",
+      "name": "bread crumbs"
+    },
+    {
+      "amount": 2,
+      "units": "15 oz cans",
+      "name": "black beans"
+    },
+    {
+      "amount": 2,
+      "name": "large eggs"
+    },
+    {
+      "amount": 3,
+      "units": "tbsp",
+      "name": "olive oil"
+    },
+    {
+      "amount": 1,
+      "units": "tsp",
+      "name": "cumin"
+    },
+    {
+      "amount": 0.5,
+      "units": "tsp",
+      "name": "salt"
+    },
+    {
+      "amount": 0.125,
+      "units": "tsp",
+      "name": "cayenne pepper"
+    },
+    {
+      "amount": 1,
+      "name": "red bell pepper, chopped fine"
+    },
+    {
+      "amount": 0.25,
+      "units": "cups",
+      "name": "minced fresh cilantro"
+    },
+    {
+      "amount": 1,
+      "name": "shallot, minced"
+    }
+  ],
+  "instructions": "<ol><li>Mince the red pepper</li><li>Mince the cilantro</li><li>Mince the shallot</li><li>Mash 2.5 cups of the black beans in a bowl</li><li>Whisk eggs, 1 tbsp oil, cumin, salt and cayenne pepper in a separate bowl</li><li>Add egg mixture, bread crumbs, bell pepper, cilantro, shallot and remaining beans to bowl with mashed beans. </li><li>Divide mixture into 6 equal portions and form 1 inch thick patties</li><li>Cook each patty for 8-10 minutes in oil over medium heat, flipping halfway through</li></ol>Source: America's Test Kitchen Healthy Cookbook",
+  "photo": "black-bean-burgers.jpg"
+}

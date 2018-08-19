@@ -1,0 +1,87 @@
+{
+  "ingredients": 
+  [
+    {
+      "amount": 1,
+      "units": "tbsp",
+      "name": "canola oil"
+    },
+    {
+      "amount": 1,
+      "name": "onion, minced"
+    },
+    {
+      "amount": 1,
+      "units": "tsp",
+      "name": "sugar"
+    },
+    {
+      "amount": 4,
+      "units": "cloves",
+      "name": "garlic"
+    },
+    {
+      "amount": 0.5,
+      "units": "tsp",
+      "name": "paprika"
+    },
+    {
+      "amount": "pinch",
+      "name": "ground cayenne pepper"
+    },
+    {
+      "amount": 0.25,
+      "units": "tsp",
+      "name": "saffron threads, crumbled"
+    },
+    {
+      "amount": 0.25,
+      "units": "tsp",
+      "name": "ground ginger"
+    },
+    {
+      "amount": 0.25,
+      "units": "tsp",
+      "name": "ground cumin"
+    },
+    {
+      "amount": 2,
+      "units": "15 oz cans",
+      "name": "chickpeas, rinsed"
+    },
+    {
+      "amount": 1,
+      "units": "lb",
+      "name": "red potatoes, cut into 1/2 inch pieces"
+    },
+    {
+      "amount": 1,
+      "units": "14.5 oz can",
+      "name": "diced tomatoes"
+    },
+    {
+      "amount": 4,
+      "units": "cups",
+      "name": "low sodium chicken broth"
+    },
+    {
+      "amount": 1,
+      "name": "zucchini, seeded and cut into 1/2 inch pieces"
+    },
+    {
+      "amount": 0.25,
+      "units": "cup",
+      "name": "minced fresh parsley"
+    },
+    {
+      "name": "salt"
+    },
+    {
+      "name": "pepper"
+    },
+    {
+      "name": "lemon wedges"
+    }
+  ],
+  "instructions": "<ol><li>Saute onion and sugar for 5 minutes</li><li>Add (minced) garlic, paprika, cayenne pepper, saffron, ginger and cumin</li><li>Cook for 30 seconds</li><li>Stir in chickpeas, potatoes, tomatoes (with juice) and broth</li><li>Simmer for 20 minutes until potatoes are tender</li><li>Stir in zucchini and simmer 5-10 minutes</li><li>Mash some potatoes on side of pot</li><li>Stir in parsley, and season with salt and pepper</li></ol>Source: America's Test Kitchen Healthy Family Cookbook"
+}

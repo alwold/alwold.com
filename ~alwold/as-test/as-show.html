@@ -1,0 +1,35 @@
+<html>
+  <head>
+    <meta charset="UTF-8"> 
+    <meta name="viewport" content="initial-scale=1.0">
+    <script type="text/javascript">
+      function getCookieValue(name) {
+        var cookies = document.cookie.split(';');
+        var value = "not found";
+        cookies.forEach(function(rawCookie) {
+          var nameAndValue = rawCookie.trim().split('=', 2);
+          if (nameAndValue[0] === name) {
+            value = nameAndValue[1];
+          }
+        });
+        return value;
+      }
+
+      function removeCookie() {
+        document.cookie = 'auth_device_id=;max-age=0;expires=Thu, 01 Jan 1970 00:00:00 GMT';
+      }
+
+      window.onload = function() {
+        document.getElementById('cookieValue').innerHTML = getCookieValue('auth_device_id');
+      };
+    </script>
+  </head>
+  <body>
+    <p>
+      Cookie: <span id="cookieValue"></span>
+    </p>
+    <p>
+      <button onclick="removeCookie();window.location.reload();">Remove Cookie</button>
+    </p>
+  </body>
+</html>

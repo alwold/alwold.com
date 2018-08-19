@@ -1,0 +1,70 @@
+[
+  {
+    "name": "Shrimp Burgers",
+    "file": "shrimp-burgers"
+  },
+  {
+    "name": "Tabbouleh",
+    "file": "tabbouleh"
+  },
+  {
+    "name": "Tomatillo Soup",
+    "file": "tomatillo-soup"
+  },
+  {
+    "name": "Black Bean Burgers",
+    "file": "black-bean-burgers"
+  },
+  {
+    "name": "Summer Minestrone Soup",
+    "file": "summer-minestrone-soup"
+  },
+  {
+    "name": "Stuffed Tomatoes with Couscous, Zucchini and Goat Cheese",
+    "file": "stuffed-tomatoes"
+  },
+  {
+    "name": "Moroccan Chickpea Soup",
+    "file": "moroccan-chickpea-soup"
+  },
+  {
+    "name": "Chickpea Cakes",
+    "file": "chickpea-cakes"
+  },
+  {
+    "name": "Cucumber Yogurt Sauce",
+    "file": "cucumber-yogurt-sauce"
+  },
+  {
+    "name": "Garlic Roasted Potatoes",
+    "file": "garlic-roasted-potatoes"
+  },
+  {
+    "name": "Butternut Squash Pasta",
+    "file": "butternut-squash-pasta"
+  },
+  {
+    "name": "Spanish Rice",
+    "file": "spanish-rice"
+  },
+  {
+    "name": "Italian Salad",
+    "file": "italian-salad"
+  },
+  {
+    "name": "Slow Cooker Mexican Pozole",
+    "file": "slow-cooker-mexican-pozole"
+  },
+  {
+    "name": "Waffles",
+    "file": "waffles"
+  },
+  {
+    "name": "Guacamole",
+    "file": "guacamole"
+  },
+  {
+    "name": "Steel Cut Oats",
+    "file": "steel-cut-oats"
+  }
+]

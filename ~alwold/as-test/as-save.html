@@ -1,0 +1,29 @@
+<html>
+  <head>
+    <meta charset="UTF-8"> 
+    <meta name="viewport" content="initial-scale=1.0">
+
+    <script type="text/javascript">
+      function getDeviceId() {
+        var url = window.location.href;
+        var urlAndParams = url.split('?', 2);
+        var paramPairs = urlAndParams[1].split('&');
+        var deviceId = null;
+        paramPairs.forEach(function(pair) {
+          var keyAndValue = pair.split('=', 2);
+          if (keyAndValue[0] === 'deviceId') {
+            deviceId = keyAndValue[1];
+          }
+        });
+        return deviceId;
+      }
+
+      // set cookie
+      document.cookie = "auth_device_id="+encodeURIComponent(getDeviceId())+";max-age=31536000;expires=Fri, 14 Jun 2019 07:00:00 GMT;secure";
+      // document.cookie = "auth_device_id="+encodeURIComponent(getDeviceId())+";max-age=31536000;secure";
+      window.location = 'trusonauat://foo';
+   </script>
+  </head>
+  <body>
+  </body>
+</html>

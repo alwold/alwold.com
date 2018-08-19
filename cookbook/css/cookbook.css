@@ -1,0 +1,23 @@
+.recipe-list {
+  float: left;
+  background: lightgray;
+  border: solid black 1px;
+  padding: 20px;
+  width: 15%;
+}
+
+.recipe-view {
+  float: left;
+  padding: 10px;
+  max-width: 75%;
+}
+
+h1 {
+  background: lightgreen;
+  padding: 10px;
+}
+
+.recipe-photo {
+  height: 300px;
+  float: right;
+}

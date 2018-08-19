@@ -1,0 +1,51 @@
+{
+  "ingredients": [
+    {
+      "amount": 0.25,
+      "units": "cups",
+      "name": "bread crumbs"
+    },
+    {
+      "amount": 1,
+      "units": "lb",
+      "name": "peeled extra large (21-25/lb) shrimp"
+    },
+    {
+      "amount": 3,
+      "units": "tbsp",
+      "name": "light mayo"
+    },
+    {
+      "amount": 2,
+      "name": "scallions"
+    },
+    {
+      "amount": 2,
+      "units": "tbsp",
+      "name": "minced fresh parsley"
+    },
+    {
+      "amount": 1,
+      "units": "tsp",
+      "name": "grated lemon zest"
+    },
+    {
+      "amount": 0.125,
+      "units": "tsp",
+      "name": "pepper"
+    },
+    {
+      "amount": "pinch",
+      "name": "cayenne pepper"
+    },
+    {
+      "amount": 2,
+      "units": "tsp",
+      "name": "canola oil"
+    },
+    {
+      "name": "lemon wedges"
+    }
+  ],
+  "instructions": "<ol><li>Pulse shrimp in food processor, about 7 pulses, so there are some coarse pieces left.</li><li>Whisk mayo, scallions, parsley, lemon zest, salt, pepper and cayenne together.</li><li>Fold in shrimp and breadcrumbs. Divide into 4 patties and refrigerate 30 minutes.</li><li>Heat oil to medium high, and cook patties for 8-10 minutes until browned.</li><li>Serve with lemon wedges.</li></ol>"
+}

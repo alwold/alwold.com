@@ -89,3 +89,13 @@ Another issue that you may run into with HTTPS is that your app may be doing cer
 
 ### Final thoughts
 If there are any additional issues that come up for you while using mitmproxy with the simulator, I'd like to hear about them, and maybe add them to the post. Get in touch on Mastodon or send me an email.
+
+### Update - 4/22/2024
+Reader Arsen Gasparian wrote in to share this shorter alternate way to set things up with a simple shell alias that can be added to your `.zshrc` (or `.bash_profile`):
+
+```sh
+alias mitm='networksetup -setsecurewebproxystate Wi-Fi on &&
+   mitmproxy && networksetup -setsecurewebproxystate Wi-Fi off’
+```
+
+You'll have to set up your proxy IP/port once through system settings, but once you have that set up, you can use this alias as a nice short way to turn the proxy on and off.
